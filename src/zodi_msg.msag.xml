@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZODI_MSG</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>TEST</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZODI_MSG</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Table not available</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZODI_MSG</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Table Description not available for the table</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZODI_MSG</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Table not available</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZODI_MSG</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Invalid Package</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZODI_MSG</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Invalid Application Component</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZODI_MSG</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Package for table not available</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZODI_MSG</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>No Tables Available for the given input</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZODI_MSG</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Error in passing FTP command</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZODI_MSG</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Error in opening data File</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZODI_MSG</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>Error in passing data to FTP server</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZODI_MSG</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>Error in passing FTP command</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZODI_MSG</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>Data file transfer to FTP Server successful</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZODI_MSG</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>No data Available</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZODI_MSG</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>Error in closing RFC connection</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZODI_MSG</ARBGB>
+     <MSGNR>014</MSGNR>
+     <TEXT>Fields not Available</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZODI_MSG</ARBGB>
+     <MSGNR>015</MSGNR>
+     <TEXT>No foreign keys Available</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZODI_MSG</ARBGB>
+     <MSGNR>016</MSGNR>
+     <TEXT>Secondary Indexes Not found for the table</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
